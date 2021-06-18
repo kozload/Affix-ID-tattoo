@@ -16,12 +16,12 @@ Table of Content
 
 # Affix-ID-tattoo
 
-##### **Authors:** [Adam Kozlowski](https://github.com/kozload)
+##### **Author:** [Adam Kozlowski](https://github.com/kozload)
 
-### Rationale
+## Rationale
 One might observe an increased interest in smart bio-responsive devices being on the target of most pharmaceutical or, in general, medical technology companies, where physiological signals are being exploited for precise diagnosis or/and targeted therapy. Such adhesive systems, e.g. in transdermal drug delivery, resemble as important constituent in human-machine interactions, as advances in bio-inspired design of their architecture and multifunctional bioelectronics progresses. Printing technology serves here as a gate to overcome old-fashioned methodologies, obstacles and limitations, for further applications and new challenges.
 
-### Market Survey
+## Market Survey
 Fig.1 Stocktaking on the currently available technologies of physical person identification
 ![this](./img/marketo.png)
 
