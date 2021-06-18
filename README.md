@@ -1,6 +1,6 @@
 Table of Content
 ================
-* [Affix-ID-tattoo](#Affix-ID-tattoo)
+* [Åffix-ID-tattoo](#Åffix-ID-tattoo)
   * [Product Concept](#Product-Concept)
   * [Specifications](#Specifications)
   * [Design](#Design)
@@ -14,7 +14,7 @@ Table of Content
   * [References](#References)
 
 
-# Affix-ID-tattoo
+# Åffix-ID-tattoo
 
 ##### **Author:** [Adam Kozlowski](https://github.com/kozload)
 
