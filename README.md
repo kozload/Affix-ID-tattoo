@@ -41,7 +41,7 @@ Establishment of a printable, electronic, flexible and disposable patch/tattoo a
 
 ![thet](./img/mano.png)
 
-**[VR demonstration](https://affix8.glitch.me/%C3%85ffix%C2%AE__.html)**
+### **[VR demonstration](https://affix8.glitch.me/%C3%85ffix%C2%AE__.html)**
 
 # Testing
 -	Biocompatibility testing: fulfilling the standards of the ISO 10993 concerning medical devices 
