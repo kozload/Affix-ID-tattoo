@@ -23,6 +23,7 @@ One might observe an increased interest in smart bio-responsive devices being on
 
 ## Market Survey
 **Fig.1** Stocktaking on the currently available technologies of physical person identification
+
 ![this](./img/marketo.png)
 
 # Product Concept
@@ -37,6 +38,7 @@ Establishment of a printable, electronic, flexible and disposable patch/tattoo a
 
 # Design
 **Fig.3:** imaginary extrapolation on Åffix® ID-tattoo design (left) with temporal adhesion-providing superficial layer patch upon its activation (right)
+
 ![thet](./img/mano.png)
 
 # Testing
