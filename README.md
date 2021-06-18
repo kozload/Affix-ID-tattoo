@@ -17,7 +17,6 @@ Table of Content
 # Åffix-ID-tattoo
 
 ##### **Author:** [Adam Kozlowski](https://github.com/kozload)
-**Have a look in the [VR](https://affix8.glitch.me/%C3%85ffix%C2%AE__.html)**
 
 ## Rationale
 One might observe an increased interest in smart bio-responsive devices being on the target of most pharmaceutical or, in general, medical technology companies, where physiological signals are being exploited for precise diagnosis or/and targeted therapy. Such adhesive systems, e.g. in transdermal drug delivery, resemble as important constituent in human-machine interactions, as advances in bio-inspired design of their architecture and multifunctional bioelectronics progresses. Printing technology serves here as a gate to overcome old-fashioned methodologies, obstacles and limitations, for further applications and new challenges.
@@ -41,6 +40,8 @@ Establishment of a printable, electronic, flexible and disposable patch/tattoo a
 **Fig.3:** imaginary extrapolation on Åffix® ID-tattoo design (left) with temporal adhesion-providing superficial layer patch upon its activation (right)
 
 ![thet](./img/mano.png)
+
+**[VR demonstration](https://affix8.glitch.me/%C3%85ffix%C2%AE__.html)**
 
 # Testing
 -	Biocompatibility testing: fulfilling the standards of the ISO 10993 concerning medical devices 
