@@ -73,12 +73,12 @@ Specific Intellectual Property applications shall be made – patenting, design 
 
 # References
 
-Zixian Bao, Minghong Gao, Yue Sun, Rui Nian, Mo Xian, The recent progress of tissue adhesives in design strategies, adhesive mechanism and applications, Materials Science and Engineering, 2020
-Baik S, Lee HJ, Kim DW, Kim JW, Lee Y, Pang C. Bioinspired Adhesive Architectures: From Skin Patch to Integrated Bioelectronics. Adv Mater., 2019 
-Song K, Li G, Zu X, Du Z, Liu L, Hu Z. The Fabrication and Application Mechanism of Microfluidic Systems for High Throughput Biomedical Screening: A Review. Micromachines (Basel). 2020 Mar 11
-Tuhkala T., Tuomaala T., Määttä H. (eds.), Practical guide to screen printing in printed electronics, ePOOKI 48/2019 – RDI publications of Oulu University of Applied Sciences
-You Yu, Hnin Yin Yin Nyein, Wei Gao, Ali Javey, Flexible Electrochemical Bioelectronics: The Rise of In Situ Bioanalysis, Advanced Materials, 2019
-Yu J, Zhang Y, Kahkoska AR, Gu Z. Bioresponsive transcutaneous patches. Curr Opin Biotechnol., 2017
+1. Zixian Bao, Minghong Gao, Yue Sun, Rui Nian, Mo Xian, The recent progress of tissue adhesives in design strategies, adhesive mechanism and applications, Materials Science and Engineering, 2020
+2. Baik S, Lee HJ, Kim DW, Kim JW, Lee Y, Pang C. Bioinspired Adhesive Architectures: From Skin Patch to Integrated Bioelectronics. Adv Mater., 2019 
+3. Song K, Li G, Zu X, Du Z, Liu L, Hu Z. The Fabrication and Application Mechanism of Microfluidic Systems for High Throughput Biomedical Screening: A Review. Micromachines (Basel). 2020 Mar 11
+4. Tuhkala T., Tuomaala T., Määttä H. (eds.), Practical guide to screen printing in printed electronics, ePOOKI 48/2019 – RDI publications of Oulu University of Applied Sciences
+5. You Yu, Hnin Yin Yin Nyein, Wei Gao, Ali Javey, Flexible Electrochemical Bioelectronics: The Rise of In Situ Bioanalysis, Advanced Materials, 2019
+6. Yu J, Zhang Y, Kahkoska AR, Gu Z. Bioresponsive transcutaneous patches. Curr Opin Biotechnol., 2017
 
 
 
