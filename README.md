@@ -56,12 +56,12 @@ Liquid gel vacuum packaged product shall be delivered with drone transport via m
 -	Survey: user experience tracking and analysis with, e.g. survey methodology, might provide precious data on preferred location of the device on body region and perhaps help in the improvement of its performance
 
 # Technical Functionality
-I	Evaluation of the mechanics of the device components/materials for its functionality preservation
-II	Providing adequate skin surface adhesion of the device
-III	Evaluation of the device activation by individual’s unique biochemical (genomic) composition parameter
-IV	Communication medium establishment for reciprocal sender/receiver information transmission
-IV	Creation of basic software/application in computer interface
-V	Establishment of sufficient data encryption 
+I	Evaluation of the mechanics of the device components/materials for its functionality preservation  
+II	Providing adequate skin surface adhesion of the device  
+III	Evaluation of the device activation by individual’s unique biochemical (genomic) composition parameter  
+IV	Communication medium establishment for reciprocal sender/receiver information transmission  
+IV	Creation of basic software/application in computer interface  
+V	Establishment of sufficient data encryption  
 
 # Manufacturability
 The product ought to be mass-manufactured, exclusively with automated 3D printing methodology due to high-volume production and product characteristics.
